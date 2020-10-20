@@ -1,4 +1,4 @@
-ARG FRM='testdasi/grafana-unraid-stack-base'
+ARG FRM='bland328/btl-gus-base'
 ARG TAG='latest'
 
 FROM ${FRM}:${TAG}
